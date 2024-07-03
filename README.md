@@ -2,8 +2,11 @@
    Projeto:"Ebook do zero com ferramentas IAs"
 </p> 
 <p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
+<a href="https://linkedin.com/in/ana-meliti/"><img src="https://img.shields.io/badge/Project-Prompts-darkblue" alt="Post-linkedin"></a>
+<img src="https://img.shields.io/badge/Language-Python-darkviolet"> 
+<img src="https://img.shields.io/github/commit-activity/t/Anameliti/podcast-prompts-by-ia/main?color=violet"> 
+</p>
+
 
 -----
 
