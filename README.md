@@ -1,10 +1,10 @@
-<p align="center"> 
-   Projeto:"Ebook do zero com ferramentas IAs"
-</p> 
+<h2 align="center"> 
+   Projeto:"Ebook do zero com ferramentas IAs"</h2>
+   
 <p align="center">
-<a href="https://linkedin.com/in/ana-meliti/"><img src="https://img.shields.io/badge/Project-Prompts-darkblue" alt="Post-linkedin"></a>
-<img src="https://img.shields.io/badge/Language-Python-darkviolet"> 
-<img src="https://img.shields.io/github/commit-activity/t/Anameliti/podcast-prompts-by-ia/main?color=violet"> 
+<a href="https://dio.com.br"><img src="https://img.shields.io/badge/DIO-Bootcamp-green" alt="DIO"></a>
+<a href="https://linkedin.com/in/ana-meliti/"><img src="https://img.shields.io/badge/Project-Prompts-blue" alt="Post-linkedin"></a>
+<img src="https://img.shields.io/github/commit-activity/t/Anameliti/create-ebook-prompts/main?color=violet"> 
 </p>
 
 
